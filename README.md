@@ -7,8 +7,11 @@
 ✅✅ https://code.visualstudio.com/ ✅✅
 
 💻 In this video, you’ll learn:
+
 ✅ Where to download VS Code
+
 ✅ How to install VS Code step by step
+
 ✅ Essential extensions to boost productivity
 
 🎯 By the end of this tutorial, you’ll have VS Code installed and ready to use!
@@ -21,8 +24,7 @@
 🔹 GitHub:
 ➡️ https://github.com/Pythoniacs-Codebook
 
-🔹 WhatsApp:   
-➡️ https://wa.me/message/V33NEXMUPK3CJ1
+🔹 WhatsApp: ➡️ https://wa.me/message/V33NEXMUPK3CJ1
 
 🔹 Facebook Profile 
 ➡️ https://web.facebook.com/profile.php?id=61566373615325
